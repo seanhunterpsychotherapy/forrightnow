@@ -39,7 +39,3 @@
 ### **10. Encouragement to Seek Human Support**
 - Users are encouraged to maintain regular contact with therapists, counselors, peers, and support networks.  
 - The tool works best when used as a **supplement** to real human connection and professional guidance.
-
----
-
-If you want, I can turn this into a polished, fully formatted README section with headings, structure, and tone that matches the rest of your project.
